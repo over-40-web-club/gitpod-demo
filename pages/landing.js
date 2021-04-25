@@ -217,6 +217,7 @@ export default function Landing() {
                   <h3 className='text-3xl font-semibold'>A growing comunity</h3>
                   <p className='mt-4 text-lg leading-relaxed text-blueGray-500'>
                     We continue to study programming！写真をかえました！
+                    今触っているのは、自分のところにフォークしたやつかどうか？
                   </p>
                   <ul className='list-none mt-6'>
                     <li className='py-2'>
